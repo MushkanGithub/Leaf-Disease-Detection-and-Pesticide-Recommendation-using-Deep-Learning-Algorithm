@@ -1,0 +1,35 @@
+Temparature,Humidity ,Moisture,Soil Type,Crop Type,N,P,K,Fertilizer Name
+21,45,76,Loamy soil,Tomato,100,70,160, 5-10-5
+20,86,80,Loamy soil,Potato,2500,1333,5000,Dr. Earth Organic Vegetable Fertilizer
+25,50,66,Sandy loam soil,Pepper Bell,416,687,937,Miracle-Gro Water Soluble All Purpose Plant Food (24-8-16)
+17,40,80,Sandy soil ,Tomato,110,76,153, 8-16-16
+21,70,79,Clayey loam soil,Pepper Bell,0.025,0.01,0.075,Seaweed Extract Fertilizer
+20,65,23,Sandy loam soil,Tomato,556,278,905,Miracle-Gro Water Soluble Tomato Plant Food (18-18-21)
+35,78,45,Clayey loam soil ,Tomato,5000,1100,5267,Jobe's Organics Vegetable & Tomato Fertilizer (2-5-3)
+29,52,73,Loamy sand soil,Pepper Bell,30,29,19,Supre Myco Tea Mix
+32,82,81,Loamy soil,Potato,667,250,6000,Organic Manure: Bone Meal
+15,84,80,Sandy soil ,Potato,3333,2000,3750,"Bone Meal, Espoma Garden-Tone Organic Fertilizer (3-4-4)"
+17,90,85,Sandy loam soil,Potato,113,59,163, 5-10-5
+26,52,50,Peat soil,Tomato,174,227,143,Dr. Earth Organic Vegetable Fertilizer
+26,60,61,Silt Loam soil,Pepper Bell,147,110,190,Epsom Salt and Miracle-Gro Mix
+25,64,89,Sandy soil ,Pepper Bell,0.16,0.4,0.24,Jobe's Organics Vegetable & Tomato Fertilizer (2-5-3)
+16,77,65,Silty soil,Potato,1111,4000,2142,Miracle-Gro Performance Organics All Purpose Plant Nutrition
+29,57,67,Clayey loam soil,Pepper Bell,0.4,0.3,0.4,"Bone Meal, Espoma Garden-Tone Organic Fertilizer (3-4-4)"
+28,63,72,Alluvial soil,Pepper Bell,0.75,0.5,0.5,Dr. Earth Organic Vegetable Fertilizer
+22,66,61,Sandy soil ,Potato,519,698,1001,Miracle-Gro Water Soluble All Purpose Plant Food (24-8-16)
+27,73,70,Sandy loam soil,Potato,2,7,4,Jobe's Organics Vegetable & Tomato Fertilizer (2-5-3)
+20,67,54,Peat soil,Pepper Bell,99,170,43,Bone Meal Fertilizer
+19,70,59,Peat soil,Potato,100,225,39,Bone Meal Fertilizer
+16,59,18,Alluvial soil,Tomato,129,334,54,Bone Meal Fertilizer
+29,69,64,Chalky soil,Tomato,3,4,6,"Bone Meal, Espoma Garden-Tone Organic Fertilizer (3-4-4)"
+17,42,76,Sandy soil ,Tomato,456,789,889,Miracle-Gro Water Soluble All Purpose Plant Food (24-8-16)
+15,51,17.98,Alluvial soil,Tomato,10,17,20,Compost
+27,70,80,Chalky soil,Pepper Bell,15,20,18,Compost
+25,57,78,Chalky soil,Potato,40,40,40,Compost
+27,63,76,Clayey soil,Tomato,417,3333,833,Blood Meal Fertilizer
+21,66,19,Alluvial soil,Pepper Bell,740,0,0,Blood Meal Fertilizer
+20,78,19.65,Alluvial soil,Potato,174,0,0,Blood Meal Fertilizer
+20,46,74,Loamy soil,Tomato,0.5,0.2,0.67,Seaweed Extract Fertilizer
+20,54,18.56,Alluvial soil,Potato,0.8,0.64,0.91,Seaweed Extract Fertilizer
+29,60,79,Clayey soil,Tomato,150,100,150, 10-10-10
+19,80,83,Clayey soil,Potato,3333,2000,3750,Jobe's Organics Vegetable & Tomato Fertilizer (2-5-3)
