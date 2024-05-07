@@ -10,3 +10,7 @@ Targets:-
 6. Users can now get all agro-related parametric updates in one place.
 Our targeting crops are Bell Pepper, Tomato and Potato.The model detects diseases with 95.80% accuracy, benefiting cultivators.
 Yet to work more on this...
+
+Our Agrix website so far...
+https://github.com/MushkanGithub/Leaf-Disease-Detection-and-Pesticide-Recommendation-using-Deep-Learning-Algorithm/assets/125779329/a62e9220-9d05-4c78-b64a-384466812542
+
